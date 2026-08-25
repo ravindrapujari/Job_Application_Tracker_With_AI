@@ -1,0 +1,13 @@
+# Python bytecode & virtual env
+__pycache__/
+*.py[cod]
+.venv/
+env/
+
+# Streamlit secrets & config
+.streamlit/secrets.toml
+.env
+
+# Database files
+*.db
+jobs.db
