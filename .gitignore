@@ -4,7 +4,7 @@ __pycache__/
 .venv/
 env/
 
-# Streamlit secrets & config
+# Streamlit secrets & config (Never commit actual secret keys)
 .streamlit/secrets.toml
 .env
 
